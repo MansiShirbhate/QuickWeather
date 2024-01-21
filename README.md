@@ -15,3 +15,9 @@ WeatherApp is a simple and intuitive weather forecast application that provides 
 
 ## Getting Started
 
+![image](https://github.com/MansiShirbhate/QuickWeather/assets/121678285/632ecc82-126f-428e-b573-feaba25c1573)
+
+![image](https://github.com/MansiShirbhate/QuickWeather/assets/121678285/82f459d6-8081-4bde-ad0c-0dcdb02aea69)
+
+
+
